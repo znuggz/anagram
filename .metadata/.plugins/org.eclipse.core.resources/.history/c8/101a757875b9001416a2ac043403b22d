@@ -1,0 +1,32 @@
+/**
+ * 
+ */
+
+/**
+ * @author gj4
+ *
+ */
+public class AnagramFinder {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		// TODO create a hash map to store the words, each cell of the map should store a linked list
+		
+		// TODO first things first, read the file name from the command line
+		// and open it for reading
+		
+		// TODO read each line from the file
+		
+		// TODO clone the string for manipulation
+		
+		// TODO treating the string like an array of words, sort the letters in the string
+		
+		// TODO create an anagram object and insert into the hash map
+
+		// TODO 
+	}
+
+}
