@@ -3795,3 +3795,21 @@ java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfigu
 !MESSAGE Save operation warnings.
 !SUBENTRY 1 org.eclipse.core.resources 2 234 2015-02-21 01:21:16.534
 !MESSAGE The project description file (.project) for 'Anagram' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-02-22 15:09:11.901
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-02-22 15:09:11.904
+!MESSAGE /wse/wsexplorer/launch_options_registry.jsp
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-02-22 15:09:12.552
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-02-22 15:09:12.556
+!MESSAGE /wse/perspective_toolbar.jsp;jsessionid=8q6o57x0a2xr1rb45s870jx48
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-02-22 15:09:12.693
+!MESSAGE 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-02-22 15:09:12.697
+!MESSAGE /wse/actions/ShowPerspectiveActionJSP.jsp
