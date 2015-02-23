@@ -1,1 +1,0 @@
-INDEX VERSION 1.3+/Users/gj4/src/java/anagram/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
