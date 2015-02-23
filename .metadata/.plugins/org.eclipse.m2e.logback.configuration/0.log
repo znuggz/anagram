@@ -274,3 +274,4 @@ The type java.lang.CharSequence cannot be resolved. It is indirectly referenced 
 	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608) [org.eclipse.jetty.util_8.1.14.v20131031.jar:8.1.14.v20131031]
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543) [org.eclipse.jetty.util_8.1.14.v20131031.jar:8.1.14.v20131031]
 	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_31]
+2015-02-22 16:56:06,393 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/wse,null}

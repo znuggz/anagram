@@ -1,7 +1,8 @@
-#Fri Feb 20 23:13:14 MST 2015
-eclipse.preferences.version=1
-tipsAndTricks=true
-platformState=1424485090200
 EXIT_PROMPT_ON_CLOSE_LAST_WINDOW=false
-quickStart=false
+IMPORT_FILES_AND_FOLDERS_RELATIVE=true
+IMPORT_FILES_AND_FOLDERS_TYPE=23,1
 PROBLEMS_FILTERS_MIGRATE=true
+eclipse.preferences.version=1
+platformState=1424499662802
+quickStart=false
+tipsAndTricks=true
